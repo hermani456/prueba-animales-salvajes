@@ -4,7 +4,7 @@ import { Oso } from './Oso.js'
 import { Aguila } from './Aguila.js'
 import { Leon } from './Leon.js'
 
-const url = 'http://adrianaol.github.io/prueba_animales_salvajes/animales.json'
+const url = 'http://diegocampuzano.ml/prueba-animales-salvajes/animales.json'
 ;(async () => {
 	const request = async (url) => {
 		const response = await fetch(url)
