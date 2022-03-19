@@ -1,4 +1,3 @@
-# prueba-animales-salvajes
 # Prueba Animales Salvajes
 
 En esta
@@ -15,4 +14,4 @@ representen los diferentes animales con sus atributos y métodos.
 - Instancias de clases.
 - Obtener y modificar elementos del DOM.
 
-### Visita: [Prueba Animales Salvajes](https://diegocampuzano.ml/prueba-animales-salvajes/)
+### Visita: [Prueba Animales Salvajes](http://diegocampuzano.ml/prueba-animales-salvajes/)
